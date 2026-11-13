@@ -1,0 +1,9 @@
+# Assignment data must not be pushed.
+data/
+
+# Local experiment outputs and notebook runtime files.
+submission/
+experiments/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]

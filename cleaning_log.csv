@@ -1,0 +1,183 @@
+id,action,reason
+tr-00013,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00018,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00020,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00023,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00045,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00049,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00058,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00059,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00060,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00071,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-00072,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00073,fix,Corrected priority using the ordered rules in SCHEMA.md. Corrected needs_human from P1 priority and explicit prior-contact wording.
+tr-00077,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00095,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00114,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00120,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00123,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00125,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00129,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00146,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00147,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-00151,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-00153,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00154,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00160,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00172,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00178,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00184,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00187,fix,Corrected priority using the ordered rules in SCHEMA.md. Corrected needs_human from P1 priority and explicit prior-contact wording.
+tr-00192,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00212,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00219,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00220,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00223,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00225,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00249,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00258,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00263,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00267,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00294,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00306,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00309,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00312,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00320,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00346,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00347,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00355,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00357,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00365,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00370,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00380,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00382,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00385,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00391,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-00413,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00420,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-00424,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00427,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00452,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00457,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00460,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-00461,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00470,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-00475,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00478,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00485,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00497,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00503,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00505,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00508,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00516,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00523,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00533,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00556,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00558,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00567,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00570,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-00577,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00589,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00595,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-00602,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00605,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00606,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00610,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00628,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00638,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00648,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00649,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-00656,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00670,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00674,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00677,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00685,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00689,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00704,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00706,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00707,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00717,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00727,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00735,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00744,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00745,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00746,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00757,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00765,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00771,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-00778,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00782,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00790,fix,Corrected needs_human from P1 priority and explicit prior-contact wording.
+tr-00791,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00794,fix,Corrected needs_human from P1 priority and explicit prior-contact wording.
+tr-00802,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00809,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00820,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00824,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00838,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-00839,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00846,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00852,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00879,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00888,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-00890,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00899,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-00908,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-00922,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00932,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00933,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00958,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00960,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00967,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-00975,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00978,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00979,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00980,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-00985,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-00987,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01006,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01012,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-01017,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-01019,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-01023,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-01028,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01046,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01048,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-01070,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-01083,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01086,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-01087,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-01089,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01109,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-01115,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01131,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-01133,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01136,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-01143,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01146,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-01151,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01158,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01178,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01188,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-01199,drop,Assistant label is truncated or invalid JSON and cannot be recovered reliably.
+tr-01202,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01222,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-01238,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-01274,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01286,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01301,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01305,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-01319,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-01326,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01331,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01343,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01359,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01363,fix,Normalized NimbusPay transaction ID to uppercase NP plus 10 digits.
+tr-01366,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Normalized transaction date from DD/MM/YYYY to YYYY-MM-DD. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01370,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-01375,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-01386,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01403,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-01407,fix,Corrected priority using the ordered rules in SCHEMA.md.
+tr-01413,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
+tr-01441,fix,Renamed corrupted prio key; priority is recomputed from SCHEMA.md. Corrected priority using the ordered rules in SCHEMA.md.
